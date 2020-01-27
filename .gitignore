@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AzureServiceBusPublisher/.vs/AzureServiceBusPublisher/v16
+/AzureServiceBusPublisher/AzureServiceBusPublisher/bin
+/AzureServiceBusPublisher/AzureServiceBusPublisher/obj
+/AzureServiceBusSubscriber/.vs/AzureServiceBusSubscriber/v16
+/AzureServiceBusSubscriber/AzureServiceBusSubscriber/bin
+/AzureServiceBusSubscriber/AzureServiceBusSubscriber/obj
+/AzureServiceBusSubscriber/AzureServiceBusSubscriber/Properties/PublishProfiles
